@@ -1,6 +1,7 @@
 ## Stat 447 - Unsupervised Learning
 
-This repository contains the assignments for the course STAT 447 which provides with tools to perform optimal unsupervised learning in data. The following links take you to the main assignment throughout the weeks.
+This repository contains the assignments for the course STAT 447 which provides tools to perform optimal unsupervised learning in data. 
+The following links take you to the main assignment throughout the weeks.
 
 #### Week 1
 https://github.com/slizarazo21/STAT447_UnsupervisedLearning/blob/master/Assignment_01-1/Assignment_01.ipynb
@@ -36,4 +37,6 @@ https://github.com/slizarazo21/STAT447_UnsupervisedLearning/blob/master/Assignme
 https://github.com/slizarazo21/STAT447_UnsupervisedLearning/blob/master/Assignment_11-1/Assignment_11.ipynb
 
 #### Final Project
+The final project aims to understand changes in the clustering structures of a publically available dataset that gathers information regarding Air Quality Index reports in the US over 40 years. Give it a look! I hope you guys enjoy it! This project got the highest score over the other 18 groups!
+
 https://github.com/slizarazo21/STAT447_UnsupervisedLearning/blob/master/Project/Stat437_notebook_Lizarazo_Sriramlatha_Uppalapati.ipynb
